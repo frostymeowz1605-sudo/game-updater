@@ -1,0 +1,5 @@
+{
+  "version": "1.9-test.1",
+  "script_url": "https://raw.githubusercontent.com/frostymeowz1605-sudo/game-updater/main/app_updater.py",
+  "notes": "- Nowa nazwa: Moja Aplikacja PRO\n- Wybor jezyka (PL/EN) w menu Ustawienia\n- Nowe menu: Plik, Ustawienia, Pomoc\n- Okno 'O programie'"
+}
